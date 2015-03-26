@@ -1,0 +1,25 @@
+{
+  "name": "MilSymJsNode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "express": "^4.12.3",
+    "multer": "^0.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jtharp/mil-sym-js"
+  },
+  "author": "Joshua Tharp",
+  "license": "Apache v2.0",
+  "bugs": {
+    "url": "https://github.com/jtharp/mil-sym-js/issues"
+  },
+  "homepage": "https://github.com/jtharp/mil-sym-js"
+}
